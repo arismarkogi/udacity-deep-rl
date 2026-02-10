@@ -1,2 +1,5 @@
 # udacity-deep-rl
-Projects for Udacity Deep Reinforcement Learning Nanodegree
+
+checkpoint.pth contains the weights of the trained model
+navigation.ipynb contatins the code used for the project
+udacity_dqn_report.pdf contains the report
